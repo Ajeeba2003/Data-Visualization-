@@ -1,1 +1,1 @@
-# Data-Visualization-Slaries
+# Data-Visualization-Salaries
